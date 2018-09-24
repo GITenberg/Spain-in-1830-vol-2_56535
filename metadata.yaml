@@ -1,0 +1,24 @@
+_repo: Spain-in-1830-vol-2_56535
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Inglis, Henry D.
+    alias: Derwent Conway
+    birthdate: 1795
+    deathdate: 1835
+    gutenberg_agent_id: '48906'
+    url: http://www.gutenberg.org/2009/agents/48906
+    wikipedia: https://en.wikipedia.org/wiki/Henry_David_Inglis
+description: ''
+gutenberg_issued: '2018-02-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56535'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Spain in 1830, vol. 2
+url: http://www.gutenberg.org/ebooks/56535
