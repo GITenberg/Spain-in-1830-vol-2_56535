@@ -1,5 +1,8 @@
 _repo: Spain-in-1830-vol-2_56535
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56535-h/images/cover_lg.jpg
 creator:
   author:
     agent_name: Inglis, Henry D.
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/48906
     wikipedia: https://en.wikipedia.org/wiki/Henry_David_Inglis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56535#Spain-in-1830-vol-2
 gutenberg_issued: '2018-02-10'
 gutenberg_type: Text
 identifiers:
